@@ -1,0 +1,109 @@
+body {
+    background-image:url(фон.jpg);
+	background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    background-size: 100%;
+	opacity: 1;
+	font-size: 20px;
+	font-family:Arial;
+	text-decoration:none;
+}
+a{text-decoration:none;}
+.заголовок {
+    text-align:center;
+}
+
+.заголовок:hover {
+    color:red;
+}
+
+.подцветка:hover {
+    color:red;
+}
+
+.фон_заголовок {
+    background-color:LightSkyBlue;
+    border-radius:150px;
+    border:2px solid white;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.разделы {
+   background-color:#eae310;
+   text-align:left;
+   margin-left:0%;
+   margin-top:15px;
+   border:2px dashed white;
+   border-radius: 10px;
+}
+
+.раздел1{
+    border:3px solid orange;
+    background-color:#4475c4;
+    color:white;
+	border-radius: 10px;
+}
+#video {
+	margin-top: 20px;
+	margin-left: 25%;
+	width: 50%;
+}
+
+.подписи {
+	text-align:center;
+	font-weight:500 ;
+	opacity: 0.6;
+	font-size: 12px;
+	font-style: italic;
+	color: black;
+    
+}
+
+.image {
+	border:"3px solid black";
+	text-align: center;
+	margin-left: 25%;
+}
+.раздел2 {
+    border:3px solid blue;
+    background-color:#a1949e;
+    color:white;
+	border-radius: 10px;
+}
+
+.раздел3 {
+	 border:3px solid SkyBlue;
+    background-color:#2f065d;
+    color:white;
+	border-radius: 10px;
+}
+.text {
+	padding-left: 15px;
+	padding-top: 15px
+}
+.раздел4 {
+	 border:3px solid #09eb2a;
+    background-color:#506e54;
+    color:white;
+	border-radius: 10px;
+}
+.раздел5 {
+	 border:3px solid #e4b663;
+    background-color:#8c6442;
+    color:white;
+	border-radius: 10px;
+}
+.table {
+	border: 2px solid black;
+	background-color: white;
+	text-align: center;
+}
+.раздел7 {
+	 border:3px solid #3c62e7;
+    background-color:#1fddb5;
+    color:white;
+	border-radius: 10px;
+}
